@@ -3,17 +3,10 @@
 > A Vue.js project
 
 ## Build Setup
-
+	
 ``` bash
 #vue-cli
-npm inastll -g vue-cli
-    
-#初始化
-vue init webpack vuenews  
-cd vuenews && npm install
-#install vuew-resource    
-npm install vue-resource --save
-
+npm inastll -g vue-cli 
 
 # install dependencies
 npm install
